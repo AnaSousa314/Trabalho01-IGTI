@@ -1,0 +1,49 @@
+body{
+    max-width: 1000px;
+    
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+
+.inputs{
+    display: block;
+    font-size: 18px;
+    max-width: 500px;
+}
+
+#one{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#two{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+
+#three{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+
+.colors{
+    /* background-color: rgb(0, 0, 0); */
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 300px;
+    height: 100px;
+}
+
+
+
+
